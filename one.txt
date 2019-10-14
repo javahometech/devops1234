@@ -1,2 +1,0 @@
-Welcome to devops are javahome
-Git is cool
