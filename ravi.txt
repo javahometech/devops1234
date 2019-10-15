@@ -2,4 +2,3 @@ Name: ravi
 Location: Pune
 Role: Admin
 Skills: Java, AWS, Docker
-Experience: 5 years
