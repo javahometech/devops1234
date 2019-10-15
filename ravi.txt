@@ -2,3 +2,4 @@ Name: ravi
 Location: Pune
 Role: Admin
 Skills: Java, AWS, Docker
+CTC: 800000/Annum
