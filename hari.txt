@@ -4,3 +4,4 @@ Role: Developer
 Notice Period: 2 months
 PF: 3000
 Experience: 12 years
+Tax: 4500
